@@ -1,5 +1,5 @@
 ## Oi eu sou o Igor!
-<div align="left">
+<div align="center">
   <a href="https://github.com/IgorLigabue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorLigabue&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues,contribs,stars&card_width=100"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLigabue&layout=compact&langs_count=7&theme=radical"/>
