@@ -9,18 +9,8 @@
 [![GitHub IgorLigabue](https://img.shields.io/github/followers/IgorLigabue?label=follow&style=social)](https://github.com/IgorLigabue/)
 
 #
-
-
-<div align="center">
-  <a href="https://github.com/IgorLigabue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorLigabue&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answere&api_domain=Hakatime"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLigabue&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-</div>
-
 <div align="center"> 
-  
+
   ![Snake animation](https://github.com/IgorLigabue/IgorLigabue/blob/output/github-contribution-grid-snake.svg)
  
 </div>
