@@ -11,8 +11,8 @@
 #
 <div align="center"> 
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorLigabue&theme=radical&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLigabue&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorLigabue&theme=radical&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLigabue&layout=compact&langs_count=7&theme=radical"/>
 
   ![Snake animation](https://github.com/IgorLigabue/IgorLigabue/blob/output/github-contribution-grid-snake.svg)
  
